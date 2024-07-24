@@ -1,0 +1,15 @@
+.AppWrap {
+    padding-top: 4rem;
+    align-items: center;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: column;
+}
+
+.NavBar {
+    padding: 1rem;
+}
+
+.NavBG {
+    background-color: darkgoldenrod;
+}

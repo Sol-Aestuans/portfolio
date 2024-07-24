@@ -1,11 +1,13 @@
 import { useState } from 'react'
 import '../app.css'
 
-export default function Root() {
+function ResumePage() {
 
   return (
     <>
-      <h1> Home Page</h1>
+      <h1>Resume</h1>
     </>
-  );
+  )
 }
+
+export default ResumePage
